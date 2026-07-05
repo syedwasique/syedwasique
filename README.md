@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="wasique-cover.png" alt="Syed Muhammad Wasique Rizvi" width="100%" style="border-radius: 12px; max-height: 320px; object-fit: cover;" />
+  <img src="cover.png" alt="Syed Muhammad Wasique Rizvi" width="100%" style="border-radius: 12px; max-height: 320px; object-fit: cover;" />
 
   <p align="center">
     <a href="mailto:syedmuhammadw86@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
